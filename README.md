@@ -22,3 +22,5 @@ jobs:
           TENOR_TOKEN: ${{secrets.TENOR_TOKEN}}
 ```
 * You're welcome!
+
+A test
